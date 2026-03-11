@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Logs
+*.log
+mcp_server.log*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Test files
+test_capture*.png
+*.test.py
+
+# Local config (contains user-specific paths)
+cursor-mcp-config.json
+*_local.json
+*.local.*
+
+# Personal/internal docs
+CONVERSATION_HISTORY.md
+NOTES.md
+TODO.md
+docs/CONVERSATION_HISTORY.md
+docs/CURSOR_PITCH.md
+docs/SHARING_GUIDE.md
+
+# Generated HTML files
+wpay_wallet.html
+startup_landing_page.html
+
+# Claude project files
+.claude/
+CLAUDE.md
