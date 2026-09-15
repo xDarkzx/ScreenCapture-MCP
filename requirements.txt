@@ -1,7 +1,7 @@
 # MCP Screen Server Dependencies
 
 # MCP SDK
-mcp>=1.0.0,<2.0.0
+mcp>=2.2.0,<3.0.0
 
 # Screen capture
 mss>=9.0.1
