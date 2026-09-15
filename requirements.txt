@@ -4,7 +4,7 @@
 mcp>=1.0.0,<2.0.0
 
 # Screen capture
-mss>=9.0.1
+mss>=10.2.0
 Pillow>=10.0.0
 
 # Platform-specific (Windows)
